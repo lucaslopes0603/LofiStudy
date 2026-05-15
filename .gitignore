@@ -31,3 +31,6 @@ Thumbs.db
 *.db
 tmp/
 temp/
+
+# local screenshots
+linkedin-*.png
